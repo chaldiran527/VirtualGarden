@@ -1,0 +1,49 @@
+{
+	"Estaciones":[
+	{
+		"solmin": 15,
+		"solmax": 30,
+		"duracion": 90,
+		"nombreEstacion": "verano",
+		"lluviamin": 0,
+		"lluviamax": 5,
+		"fecha_inicio": "2022-06-15",
+		"fecha_fin": "2022-10-23",
+		"cantidadLluvia": 0.2
+	},
+	{
+		"solmin": 5,
+		"solmax": 20,
+		"duracion": 90,
+		"nombreEstacion": "otoño",
+		"lluviamin": 0,
+		"lluviamax": 20,
+		"fecha_inicio": "2022-10-24",
+		"fecha_fin": "2022-11-20",
+		"cantidad_lluvia": 10.0
+	},
+	{
+		"solmin": 0,
+		"solmax": 5,
+		"duracion": 90,
+		"nombreEstacion": "invierno",
+		"lluviamin": 0,
+		"lluviamax": 2,
+		"fecha_inicio": "2022-11-21",
+		"fecha_fin": "2023-03-09",
+		"cantidad_lluvia": 2.3
+	},
+	{
+		"solmin": 5,
+		"solmax": 12,
+		"duracion": 90,
+		"nombreEstacion": "primavera",
+		"lluviamin": 0,
+		"lluviamax": 8,
+		"fecha_inicio": "2023-03-10",
+		"fecha_fin": "2023-06-14",
+		"cantidad_lluvia": 7.6
+	}
+
+]
+}
